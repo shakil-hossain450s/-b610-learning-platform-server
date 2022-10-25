@@ -6,7 +6,7 @@ const cors = require("cors");
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("Server Side is Running");
+  res.send("Server Side is Running on this port");
 });
 
 app.listen(port, () => {
