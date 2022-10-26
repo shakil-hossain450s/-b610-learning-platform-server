@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "image": "https://previews.customer.envatousercontent.com/files/177350986/javascriptfundamentals.jpg",
+        "name": "JavaScript Fundamentals",
+        "description": "So you want to learn JavaScript? In this Web Learning Platfrom we will start at the very beginning and cover everything about the language that a beginner needs to know. Maybe you have never programmed anything before, or maybe you are coming to JavaScript from another language. Whatever your situation, we will go through everything you need to get up and running with one of the most popular and dynamic languages in use today.As you follow along with almost six hours of content you will learn the fundamentals of JavaScript, from variables, data types, operators, functions, and keywords, to how to control program flow and work with strings. You will even learn more advanced techniques such as prototypal inheritance, regular expressions, closures, and mixins",
+        "about": [
+            "Understand the basics of JavaScript: variables, data types, operators, functions, keywords, and more.",
+            "How to control program flow by using conditionals, switches, for and while loops, and timers.",
+            "How to work with strings, arrays, object instances, and more.",
+            "Work with the DOM through DOM traversal, manipulating HTML elements, and adding and removing elements.",
+            "Use the Selector API, the History API, geolocation, and web storage.",
+            "Advanced techniques such as prototypal inheritance, regular expressions, closures, and mixins."
+        ]
+    },
+    {
+        "id": "2",
+        "image": "https://previews.customer.envatousercontent.com/files/177408397/ooes6preview.jpg",
+        "name": "Object-Oriented JavaScript With ES6",
+        "description": "In this course, Web Learning Platfrom instructor Jeremy McPeak will teach you everything you need to know in order to write object-oriented JavaScript. You will learn how to use the different creational patterns, such as factory functions, constructor functions, and classes. You will also learn how to use the new tools in ECMAScript 2015 (ES6) to implement truly private encapsulation in your code. Finally, you will also learn the different JavaScript inheritance patterns for reusing existing code. At the end of this course, you will apply everything you have learned to write a custom event system and a simple toolbar component. Throughout the course, Jeremy will demonstrate the new syntax in ES6 and also the patterns for achieving object orientation that have been used in older versions of JavaScript",
+        "about": [
+            "How to use primitive data types and create objects.",
+            "How to use the different creational patterns, such as factory functions, constructor functions, and classes.",
+            "How to implement private encapsulation in your code using the new tools in ECMAScript 2015",
+            "How to reuse existing code via JavaScript inheritance patterns.",
+            "How to write a custom event system and a simple toolbar component."
+        ]
+    },
+    {
+        "id": "3",
+        "image": "https://previews.customer.envatousercontent.com/files/179769045/function-jspreview.jpg",
+        "name": "Functional Programming in JavaScript",
+        "description": "Learn the basics of functional programming in JavaScript. You will take a small, mostly imperative website and refactor it using practical declarative and functional concepts. You will learn about pure functions, side-effects and declarative style while building a small functional utility library. The project will demonstrate how Underscore or Lodash functions like filter, map, and reduce really work. Focused on practical understanding over philosophy, this is a great basic intro to functional programming that will prepare you for deeper exploration.",
+        "about": [
+            "How the functional style of programming works in JavaScript.",
+            "What declarative style is, and how to make your filter declarative",
+            "Working with higher-order functions and pure functions.",
+            "How to build your own utility library, and how to use popular libraries like Underscore and Lodash.",
+            "Put it all into practice by building a project: a simple filtering function for a website displaying a list of beers."
+        ]
+    },
+    {
+        "id": "4",
+        "image": "https://previews.customer.envatousercontent.com/files/178517221/es6preview.jpg",
+        "name": "JavaScript ES6 Fundamentals",
+        "description": "JavaScript ES6 (more properly known as ECMAScript 2015 or ES2015) represents the biggest change to JavaScript in the last 20 years. JavaScript is the language of the web, and ES6 is a major improvement for web developers, adding much-needed features such as classes, promises, arrow functions, generators, string templates and many others. Browser support is growing, and transpilation tools such as Babel allow you to get started coding in ES6 today. In this course, Envato Tuts+ instructor Dan Wellman will help you sharpen and update your JavaScript skills by learning some of the most important additions that ES6 brings to the language. Cutting-edge web development practices are increasingly relying on ES6, so knowledge of the new syntax is becoming more and more necessary. Not only that, but programming in ES6 is just more fun. So let’s get started!",
+        "about": [
+            "What’s new in ES6.",
+            "Changes to built-in objects like strings, numbers, and arrays.",
+            "Changes to data structures like sets, maps, and iterators.",
+            "How to use new function types such as arrow functions and generators",
+            "A guide to new syntax in ES6, including a look at destructuring."
+        ]
+    },
+    {
+        "id": "5",
+        "image": "https://previews.customer.envatousercontent.com/files/183441253/javascriptpre.jpg",
+        "name": "Essential Tools for JavaScript Developers",
+        "description": "JavaScript is the most popular, and probably the most important, programming language today. As such, there are countless tools that make our lives just a little bit easier. But what are the tools that you absolutely must have? I’ll show you some in this course.",
+        "about": [
+            "A guide to popular code editors such as Atom, Brackets, and Visual Studio.",
+            "Working with Chrome’s development tools.",
+            "Using Require.js to load your current models.",
+            "Using the Modernizr feature-detection library and the Handlebars templating engine.",
+            "Working with NPM and Browserify to distribute JavaScript components.",
+            "Using Grunt as a JavaScript task runner and adding two key plugins."
+        ]
+    },
+    {
+        "id": "6",
+        "image": "https://previews.customer.envatousercontent.com/files/177413838/jsdesignpreview.jpg",
+        "name": "Put JavaScript Design Patterns Into Practice",
+        "description": "A design pattern is a proven solution to a common software problem. Patterns codify good design principles and facilitate maintainable code that can be worked on by teams. Design patterns are also a way for teams to communicate about the structure and architecture of an application. Patterns are a language that can be used to convey ideas and facilitate discussions.In this course, Envato Tuts+ instructor Dan Wellman will cover some of the most common and most useful design patterns used in JavaScript. Each pattern will be demonstrated with a standalone example bundled in a JavaScript module",
+        "about": [
+            "Understand some of the most common and useful design patterns in JavaScript.",
+            "See examples of each pattern in use.",
+            "Creational design patterns: the Factory pattern.",
+            "Behavioural patterns: the Publisher/Subscriber, Strategy, Observer, Chain of Responsibility, Mediator, and Iterator patterns.",
+            "Structural patterns: the Facade, Decorator, Adapter, Composite, and Proxy patterns."
+        ]
+    }
+]
