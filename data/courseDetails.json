@@ -13,8 +13,7 @@
             "Formatting tags could be used for effective presentations in the web portal, and it could possibly because of HTML.",
             "Multiple links can be added to the web page to redirect to other pages using listed links easily.",
             "The most important part of HTML is, it can be displayed in Macintosh, Windows, and Linux and support all environments. Html is platform-independent."
-        ],
-        "instructor": "Dan Wellman is an author and front-end developer based in the south of England. By day he builds web sites and applications and likes to focus on JavaScript, testing and workflow tools. By night he produces video courses for Envato Tuts+ on a range of mostly front-end focused topics, usually centered around JavaScript. You can check out his website, follow him on Twitter, and see his profile on GitHub."
+        ]
     },
     {
         "id": "2",
@@ -31,8 +30,7 @@
             "Every declaration which is put has a CSS property name, a semicolon, and a value. For example, color is the property, and the value is red in color. Font size is the property, and the 15px is the value.",
             "CSS declaration ends with a semicolon, and these blocks are surrounded by curly braces.",
             "How to use primitive data types and create objects."
-        ],
-        "instructor": "Jeremy McPeak started his development career on the client side, writing JavaScript and DHTML components in his spare time. He has co-written several books, such as Professional Ajax 1st Edition, Professional Ajax 2nd Edition, and Beginning JavaScript 3rd and 4th editions. You can check out his website or follow him on Google+."
+        ]
     },
     {
         "id": "3",
@@ -53,8 +51,7 @@
             "Light Weight and delicate",
             "Statements Looping",
             "Handling Events"
-        ],
-        "instructor": "Jason Rhodes is a Javascript developer in Baltimore, Maryland, USA.You can connect with him on Twitter or GitHub."
+        ]
     },
     {
         "id": "4",
@@ -71,8 +68,7 @@
             "Tailwind is Highly Customizable",
             "Tailwind Has Common Utility Patterns",
             "Tailwind Can Be Optimized Using PurgeCSS"
-        ],
-        "instructor": "Dan Wellman is an author and front-end developer based in the south of England. By day he builds web sites and applications and likes to focus on JavaScript, testing and workflow tools. By night he produces video courses for Envato Tuts+ on a range of mostly front-end focused topics, usually centered around JavaScript. You can check out his website, follow him on Twitter, and see his profile on GitHub."
+        ]
     },
     {
         "id": "5",
@@ -88,8 +84,7 @@
             "Automatic Garbage Collection",
             "Dynamically Typed and Type Checking",
             "GUI Programming"
-        ],
-        "instructor": "Jeremy McPeak started his development career on the client side, writing JavaScript and DHTML components in his spare time. He has co-written several books, such as Professional Ajax 1st Edition, Professional Ajax 2nd Edition, and Beginning JavaScript 3rd and 4th editions. You can check out his website."
+        ]
     },
     {
         "id": "6",
@@ -106,7 +101,6 @@
             "Virtual DOM",
             "Simplicity",
             "Performance"
-        ],
-        "instructor": "Dan Wellman is an author and front-end developer based in the south of England. By day he builds web sites and applications and likes to focus on JavaScript, testing and workflow tools. By night he produces video courses for Envato Tuts+ on a range of mostly front-end focused topics, usually centered around JavaScript. You can check out his website, follow him on Twitter, and see his profile on GitHub."
+        ]
     }
 ]
