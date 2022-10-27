@@ -16,10 +16,22 @@ app.get("/catgories", (req, res) => {
   res.json(catgories);
 })
 
-app.get('/category/:id', (req, res) => { 
+app.get('/course/:id', (req, res) => {
   const id = req.params.id;
-  const getSingleItem = courseDetails.find(course => course.id == id)
-  res.send(getSingleItem)
+  const getSingleItem = courseDetails.find(course => course.id == id);
+  res.send(getSingleItem);
+})
+
+app.get('/course-details/:id', (req, res) => {
+  const id = req.params.id;
+  const getSingleItem = courseDetails.find(course => course.id == id);
+  res.send(getSingleItem);
+});
+
+app.get('/pdf-details/:id', (req, res) => { 
+  const id = req.params.id;
+  const getSingleItem = courseDetails.find(course => course.id == id);
+  res.send(getSingleItem);
 })
 
 app.listen(port, () => {

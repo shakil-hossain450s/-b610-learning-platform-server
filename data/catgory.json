@@ -2,32 +2,50 @@
     {
         "id": "1",
         "image": "https://previews.customer.envatousercontent.com/files/177350986/javascriptfundamentals.jpg",
-        "name": "JavaScript Fundamentals"
+        "name": "JavaScript Fundamentals",
+        "lessons": "53",
+        "video_length": "5:43:36",
+        "price": "30"
     },
     {
         "id": "2",
         "image": "https://previews.customer.envatousercontent.com/files/177408397/ooes6preview.jpg",
-        "name": "Object-Oriented JavaScript With ES6"
+        "name": "Object-Oriented JavaScript With ES6",
+        "lessons": "13",
+        "video_length": "1:44:22", 
+        "price": "9"
     },
     {
         "id": "3",
         "image": "https://previews.customer.envatousercontent.com/files/179769045/function-jspreview.jpg",
-        "name": "Functional Programming in JavaScript"
+        "name": "Functional Programming in JavaScript",
+        "lessons": "15",
+        "video_length": "1:38:06", 
+        "price": "9"
     },
     {
         "id": "4",
         "image": "https://previews.customer.envatousercontent.com/files/178517221/es6preview.jpg",
-        "name": "JavaScript ES6 Fundamentals"
+        "name": "JavaScript ES6 Fundamentals",
+        "lessons": "20",
+        "video_length": "1:52:29", 
+        "price": "9"
     },
     {
         "id": "5",
         "image": "https://previews.customer.envatousercontent.com/files/183441253/javascriptpre.jpg",
-        "name": "Essential Tools for JavaScript Developers"
+        "name": "Essential Tools for JavaScript Developers",
+        "lessons": "11",
+        "video_length": "1:38:01", 
+        "price": "9"
     },
     {
         "id": "6",
         "image": "https://previews.customer.envatousercontent.com/files/177413838/jsdesignpreview.jpg",
-        "name": "Put JavaScript Design Patterns Into Practice"
+        "name": "Put JavaScript Design Patterns Into Practice",
+        "lessons": "15",
+        "video_length": "2:10:25", 
+        "price": "9"
     }
 
 ]
