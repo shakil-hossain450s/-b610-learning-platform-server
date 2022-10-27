@@ -32,7 +32,7 @@ app.get('/pdf-details/:id', (req, res) => {
   const id = req.params.id;
   const getSingleItem = courseDetails.find(course => course.id == id);
   res.send(getSingleItem);
-})
+});
 
 app.listen(port, () => {
   console.log("Server Side is Running on Port : " + port);
